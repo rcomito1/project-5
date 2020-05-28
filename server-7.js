@@ -56,7 +56,7 @@ app.post('/addnum', (req, res) => {
 //endpoint to get a single tel number
 //Examples: /telnum/1, /telnum/7, /telnum/11, ...
 app.get('/telnum/:id', (req, res, next) => {
-  const id = parseInt(req.params.id, 10);
+  const id = parseInt(req.params.id);
   db.map((telnum) => {
     if (telnum.id === id) {
       return res.status(200).send({
