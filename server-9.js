@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 9
 //Connects to a MongoDB server
 //Endpoints for Get, Post, and Delete requests
 
