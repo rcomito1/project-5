@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 2
 
 // simple Express.js RESTful API
 
