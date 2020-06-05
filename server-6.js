@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 6
 //Adds Post data to db in server
 
 // initialize
