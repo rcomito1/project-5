@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 7
 //Adds endpoint to Get a single tel number
 // initialize
 
