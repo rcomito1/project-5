@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 8
 //Adds endpoint to Delete a single tel number
 
 // initialize
