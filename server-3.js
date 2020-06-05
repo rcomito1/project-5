@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//server 3
 // this file goes in the phone-book directory, not client/javascripts
 
 // initialize
